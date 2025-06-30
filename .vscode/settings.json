@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dk_buttons_and_leds.h": "c",
+        "log.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}
